@@ -1,0 +1,10 @@
+[package]
+name = "ch2_2"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+rltk = "0.8"
+specs = "0.18"
+specs-derive = "0.4"
